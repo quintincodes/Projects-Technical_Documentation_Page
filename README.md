@@ -28,7 +28,7 @@ This project is a webpage containing research on the various stages of the devel
 
 ## Live Demo
 
-[Technical Documentation Page](https://eddking-qs.github.io/Projects-Technical_Documentation_Page/)
+[Technical Documentation Page](https://quintin-dev.github.io/Projects-Technical_Documentation_Page/)
 
 ## How To Contribute
 
