@@ -26,10 +26,6 @@ This project is a webpage containing research on the various stages of the devel
 -   Google Fonts
 -   Scroll bar styling
 
-## Live Demo
-
-[Technical Documentation Page](https://quintin-dev.github.io/Projects-Technical_Documentation_Page/)
-
 ## How To Contribute
 
 Contribute to this project in the following ways:
