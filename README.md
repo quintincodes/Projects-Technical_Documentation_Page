@@ -8,7 +8,7 @@ This project is a webpage containing research on the various stages of the devel
 
 ## Live Demo
 
-View the web page here: [Technical Documentation Page](https://quintin-dev.github.io/Projects-Technical_Documentation_Page/)
+View the web page here: [Technical Documentation Page](https://quintincodes.github.io/Projects-Technical_Documentation_Page/)
 
 ## Features
 
